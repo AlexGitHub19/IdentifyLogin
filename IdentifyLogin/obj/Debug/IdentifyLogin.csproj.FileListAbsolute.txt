@@ -1,0 +1,9 @@
+c:\users\alexandr\documents\visual studio 2015\Projects\IdentifyLogin\IdentifyLogin\bin\Debug\IdentifyLogin.exe.config
+c:\users\alexandr\documents\visual studio 2015\Projects\IdentifyLogin\IdentifyLogin\bin\Debug\IdentifyLogin.exe
+c:\users\alexandr\documents\visual studio 2015\Projects\IdentifyLogin\IdentifyLogin\bin\Debug\IdentifyLogin.pdb
+c:\users\alexandr\documents\visual studio 2015\Projects\IdentifyLogin\IdentifyLogin\obj\Debug\IdentifyLogin.csprojResolveAssemblyReference.cache
+c:\users\alexandr\documents\visual studio 2015\Projects\IdentifyLogin\IdentifyLogin\obj\Debug\IdentifyLogin.Form1.resources
+c:\users\alexandr\documents\visual studio 2015\Projects\IdentifyLogin\IdentifyLogin\obj\Debug\IdentifyLogin.Properties.Resources.resources
+c:\users\alexandr\documents\visual studio 2015\Projects\IdentifyLogin\IdentifyLogin\obj\Debug\IdentifyLogin.csproj.GenerateResource.Cache
+c:\users\alexandr\documents\visual studio 2015\Projects\IdentifyLogin\IdentifyLogin\obj\Debug\IdentifyLogin.exe
+c:\users\alexandr\documents\visual studio 2015\Projects\IdentifyLogin\IdentifyLogin\obj\Debug\IdentifyLogin.pdb
